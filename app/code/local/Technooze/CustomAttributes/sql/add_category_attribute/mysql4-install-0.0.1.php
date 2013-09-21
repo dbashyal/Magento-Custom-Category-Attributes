@@ -15,7 +15,7 @@ $this->addAttribute('catalog_category', 'image_label', array(
 ));
 
 $this->addAttribute('catalog_category', 'show_layered_nav', array(
-    'group'         => 'General',
+    'group'         => 'General Information',
     'input'         => 'select',
     'type'          => 'int',
     'label'         => 'Show Layered Navigation',
